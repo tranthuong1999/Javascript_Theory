@@ -1,0 +1,1 @@
+đọc đúng tài liệu gốc và không tự bịa thêm nhưng case cần chú ý dễ nhầm và bài này nó áp dụng trong react hay backend nhu thế nào
